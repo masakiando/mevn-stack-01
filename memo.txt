@@ -1,0 +1,4 @@
+nvm use 8.9.0
+vue create mevn-stack
+cd mevn-stack
+yarn run dev
