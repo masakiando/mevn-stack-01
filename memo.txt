@@ -1,8 +1,8 @@
 nvm use 8.9.0
 vue create mevn-stack
 cd mevn-stack
-yarn run dev
+yarn dev
 
 git add .
-git commit -m "library install"
+git commit -m "Music table list 作成"
 git push
