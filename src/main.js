@@ -11,7 +11,7 @@ import FontAwesomeSolid from '@fortawesome/fontawesome-free-solid'
 
 FontAwesome.library.add(FontAwesomeSolid)
 
-Vue.component('fa-icon', VueFontAwesome)
+Vue.component('font-awesome-icon', VueFontAwesome)
 
 Vue.config.productionTip = false
 
